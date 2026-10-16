@@ -1,6 +1,9 @@
-# Console Uno
+   # Uno
 
-A multiplayer, hot-seat Uno game for the terminal, written in Java 21 with no external dependencies.
+   A multiplayer, hot-seat Uno game written in Java 21 with no external dependencies. Play in a Swing window or in the terminal.
+
+   ![Game table](screenshots/4_invalid.png)
+   ![Welcome screen](screenshots/1_welcome.png)
 
 ## Run it
 
